@@ -56,7 +56,7 @@ global.mess = {
 global.ytname = "YT: https://www.youtube.com/@creepy_technology";
 global.socialm = "GitHub: https://github.com/DannyTech20";
 global.location = "Arusha/Tanzania";
-global.ownername = "𝐷𝛥𝛮𝛮𝑌";
+global.ownername = "Mr Take Tee";
 global.botname = "CREEPY_MD-V1"; 
 
 // Sticker details
